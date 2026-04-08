@@ -43,12 +43,13 @@ motto: "Code is the bridge between imagination and reality."
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Louis-XWB&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&icon_color=A177FE&title_color=A177FE&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louis-XWB&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=A177FE&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+<img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
+<img width="49%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo" />
 
-<br/>
+<img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" />
+<img width="49%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
 
-<img width="60%" src="https://github-readme-streak-stats.demolab.com/?user=Louis-XWB&theme=tokyonight&background=0D1117&hide_border=true&ring=A177FE&fire=A177FE&currStreakLabel=A177FE" alt="Streak Stats" />
+<img width="95%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
 
 </div>
 
