@@ -46,20 +46,8 @@ motto: "Code is the bridge between imagination and reality."
 <img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
 <img width="49%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo" />
 
-<img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" />
-<img width="49%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
-
 <img width="95%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
 
-</div>
-
-<br/>
-
-<!-- GitHub Trophies -->
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25"> Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Louis-XWB&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 </div>
 
 <br/>
