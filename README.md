@@ -1,76 +1,127 @@
-<p align="center">
-  <a href="https://github.com/Louis-XWB">
-    <img src="https://avatars.githubusercontent.com/u/492649003?v=4" alt="Novar" width="100" style="border-radius: 50%;" />
-  </a>
-</p>
+<div align="center">
 
-<h1 align="center">👋 Hi I'm Novar!</h1>
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Novar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Android%20%7C%20AI%20%7C%20Web3%20Developer&descSize=18&descAlignY=52" />
 
-<p align="center">
-  💻 <b>Android | AI | Web3 Developer</b>
-  <br>
-  <sub>Building amazing projects • Open Source Enthusiast</sub>
-</p>
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A177FE&center=true&vCenter=true&random=false&width=520&lines=Building+the+Future+with+Code;Android+%7C+AI+%7C+Web3+Explorer;Open+Source+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/Louis-XWB?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Louis-XWB?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow" />
-  </a>
-  <a href="https://github.com/Louis-XWB?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Louis-XWB?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars" />
-  </a>
-</p>
+<br/>
 
----
+<!-- Social Badges -->
+<a href="https://github.com/Louis-XWB?tab=followers">
+  <img alt="followers" src="https://img.shields.io/github/followers/Louis-XWB?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=A177FE" />
+</a>
+&nbsp;
+<a href="https://github.com/Louis-XWB?tab=repositories&sort=stargazers">
+  <img alt="total stars" src="https://img.shields.io/github/stars/Louis-XWB?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=A177FE" />
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Louis-XWB&style=for-the-badge&color=A177FE&labelColor=0D1117" alt="Profile Views" />
 
-## 🚀 About Me
+</div>
 
-Passionate about exploring the limitless possibilities within Android, AI, and Web3 domains. Committed to innovating and making a positive impact on the world through code.
+<br/>
 
----
+<!-- About Me -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-## 📊 GitHub Stats
+```yaml
+name: Novar
+role: Android | AI | Web3 Developer
+focus:
+  - Building intelligent mobile applications
+  - Exploring decentralized technologies
+  - Contributing to open source ecosystem
+motto: "Code is the bridge between imagination and reality."
+```
 
-<p align="center">
-  <a href="https://github.com/Louis-XWB">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Louis-XWB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=stars" alt="Louis-XWB's GitHub Stats" />
-  </a>
-  <a href="https://github.com/Louis-XWB">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louis-XWB&layout=compact&theme=dracula&langs_count=7" alt="Top Languages" />
-  </a>
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Louis-XWB Streak Stats" src="https://github-readme-streak-stats.demolab.com/?user=Louis-XWB&theme=dracula&hide_border=false" />
-  </a>
-</p>
+<!-- Tech Stack -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
 
----
+<table align="center">
+<tr>
+  <td align="center" width="140"><b>Languages</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=kotlin,java,dart,solidity,js,ts,python&theme=dark" />
+  </td>
+</tr>
+<tr>
+  <td align="center"><b>Mobile</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=androidstudio,flutter,firebase&theme=dark" />
+  </td>
+</tr>
+<tr>
+  <td align="center"><b>Frontend</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
+  </td>
+</tr>
+<tr>
+  <td align="center"><b>Backend & DB</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,redis&theme=dark" />
+  </td>
+</tr>
+<tr>
+  <td align="center"><b>DevOps & Tools</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&theme=dark" />
+  </td>
+</tr>
+</table>
 
-## 🛠️ Tech Stack
+<br/>
 
-<p align="center">
-  <a href="#"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" /></a>
-  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" /></a>
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
-  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a>
-  <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a>
-  <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Louis-XWB/Louis-XWB/blob/output/github-contribution-grid-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Louis-XWB/Louis-XWB/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://github.com/Louis-XWB/Louis-XWB/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
+<!-- GitHub Stats -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats
 
 <div align="center">
-  <strong>⭐ If you like my work, feel free to star my repositories!</strong>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Louis-XWB&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&icon_color=A177FE&title_color=A177FE&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louis-XWB&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=A177FE&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+
+<br/>
+
+<img width="60%" src="https://github-readme-streak-stats.demolab.com/?user=Louis-XWB&theme=tokyonight&background=0D1117&hide_border=true&ring=A177FE&fire=A177FE&currStreakLabel=A177FE" alt="Streak Stats" />
+
 </div>
+
+<br/>
+
+<!-- GitHub Trophies -->
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25"> Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Louis-XWB&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="40"> Activity
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Louis-XWB&bg_color=0D1117&color=A177FE&line=A177FE&point=FFFFFF&area_color=A177FE&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Louis-XWB/Louis-XWB/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Louis-XWB/Louis-XWB/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://github.com/Louis-XWB/Louis-XWB/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
