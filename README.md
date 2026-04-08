@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Novar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full Stack%20%7C%20AI%20%7C%20Web3%20Developer&descSize=18&descAlignY=52" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Novar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20%7C%20AI%20%7C%20Web3%20Developer&descSize=18&descAlignY=52" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A177FE&center=true&vCenter=true&random=false&width=520&lines=Building+the+Future+with+Code;Full Stack+%7C+AI+%7C+Web3+Explorer;Open+Source+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A177FE&center=true&vCenter=true&random=false&width=520&lines=Building+the+Future+with+Code;Full+Stack+%7C+AI+%7C+Web3+Explorer;Open+Source+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -51,7 +51,7 @@ motto: "Code is the bridge between imagination and reality."
 <br/>
 
 <!-- Activity Graph -->
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="40"> Activity
+## 📈 Activity
 
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Louis-XWB&bg_color=0D1117&color=A177FE&line=A177FE&point=FFFFFF&area_color=A177FE&area=true&hide_border=true" alt="Activity Graph" />
