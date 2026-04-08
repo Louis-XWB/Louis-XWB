@@ -52,15 +52,6 @@ motto: "Code is the bridge between imagination and reality."
 
 <br/>
 
-<!-- Activity Graph -->
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="40"> Activity
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Louis-XWB&bg_color=0D1117&color=A177FE&line=A177FE&point=FFFFFF&area_color=A177FE&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
-<br/>
-
 <!-- Snake Animation -->
 <div align="center">
   <picture>
