@@ -1,28 +1,57 @@
 ## 👋 Hi I'm Novar!
 
 💻 As a programmer, I'm immersed in the world of Android, AI and web3.  
-  
-  Passionate about exploring the limitless possibilities within these domains, I'm committed to innovating and making a positive impact on the world.
+
+Passionate about exploring the limitless possibilities within these domains, I'm committed to innovating and making a positive impact on the world.
 
 ✈️ Let's build it!
 
+---
+
 <div align="center">
+  
+### 📊 GitHub Stats
+
   <a href="https://github.com/Louis-XWB">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Louis-XWB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=stars"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Louis-XWB&show_icons=true&count_private=true&custom_title=Novar's%20Github%20Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louis-XWB&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Louis-XWB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=stars&cache_bust=1" alt="Louis-XWB's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Louis-XWB">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louis-XWB&layout=compact&langs_count=7&theme=dracula&cache_bust=1" alt="Top Languages" />
+  </a>
+
 </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:250px;" src="https://lh3.googleusercontent.com/sWg0v1bvB6lLs6TCRUICuhCfwtlYHKITgQcbIdbdf_ZbIyW8yqgqWVsmPy6r4uhxVvn2RI5aQqWnFMY[...]"/>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 </div>
+
+---
+
+### 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Louis-XWB/Louis-XWB/blob/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Louis-XWB/Louis-XWB/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/Louis-XWB/Louis-XWB/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<div align="center">
   
-  ##
-  
-![Snake animation](https://github.com/Louis-XWB/Louis-XWB/blob/output/github-contribution-grid-snake.svg)
+**⭐ If you like my projects, feel free to give them a star!**
+
+</div>
