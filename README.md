@@ -38,46 +38,6 @@ focus:
 motto: "Code is the bridge between imagination and reality."
 ```
 
-<br/>
-
-<!-- Tech Stack -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
-
-<table align="center">
-<tr>
-  <td align="center" width="140"><b>Languages</b></td>
-  <td>
-    <img src="https://skillicons.dev/icons?i=kotlin,java,dart,solidity,js,ts,python&theme=dark" />
-  </td>
-</tr>
-<tr>
-  <td align="center"><b>Mobile</b></td>
-  <td>
-    <img src="https://skillicons.dev/icons?i=androidstudio,flutter,firebase&theme=dark" />
-  </td>
-</tr>
-<tr>
-  <td align="center"><b>Frontend</b></td>
-  <td>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
-  </td>
-</tr>
-<tr>
-  <td align="center"><b>Backend & DB</b></td>
-  <td>
-    <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,redis&theme=dark" />
-  </td>
-</tr>
-<tr>
-  <td align="center"><b>DevOps & Tools</b></td>
-  <td>
-    <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&theme=dark" />
-  </td>
-</tr>
-</table>
-
-<br/>
-
 <!-- GitHub Stats -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats
 
